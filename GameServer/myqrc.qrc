@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>zhuye.png</file>
+        <file>image/logo.ico</file>
+        <file>image/logo.rc</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/losemusic.wav</file>
+        <file>music/win.wav</file>
+    </qresource>
+</RCC>

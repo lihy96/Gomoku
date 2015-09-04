@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\gameserver.o
+./debug\clientlinkdialog.o
+./debug\renshuqingqiu.o
+./debug\askagree.o
+./debug\dialog.o
+./debug\qrc_myqrc.o
+./debug\moc_gameserver.o
+./debug\moc_clientlinkdialog.o
+./debug\moc_renshuqingqiu.o
+./debug\moc_askagree.o
+./debug\moc_dialog.o
+);

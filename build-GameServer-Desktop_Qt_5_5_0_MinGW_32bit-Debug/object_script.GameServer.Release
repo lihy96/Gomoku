@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\gameserver.o
+./release\clientlinkdialog.o
+./release\renshuqingqiu.o
+./release\askagree.o
+./release\dialog.o
+./release\qrc_myqrc.o
+./release\moc_gameserver.o
+./release\moc_clientlinkdialog.o
+./release\moc_renshuqingqiu.o
+./release\moc_askagree.o
+./release\moc_dialog.o
+);
